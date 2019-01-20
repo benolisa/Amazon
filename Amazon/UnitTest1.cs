@@ -9,6 +9,7 @@ namespace Amazon
         [TestMethod]
         public void TestMethod1()
         {
+            var ben = "50";
         }
     }
 }
